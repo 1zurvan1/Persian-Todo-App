@@ -59,10 +59,6 @@ persian-todo-app/
 4. تغییرات را به ریپوی خود پوش کنید (`git push origin feature/feature-name`)
 5. یک پول ریکوئست (Pull Request) باز کنید
 
-## 📜 لایسنس
-
-این پروژه تحت لایسنس [MIT](LICENSE) منتشر شده است.
-
 ## 👤 توسعه‌دهنده
 
 [zurvan] - [https://github.com/1zurvan1]
@@ -127,10 +123,6 @@ Contributions are what make the open-source community an amazing place to learn,
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
-
-## 📜 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## 👤 Developer
 
